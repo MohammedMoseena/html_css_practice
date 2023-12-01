@@ -1,0 +1,64 @@
+p{
+    margin-top:0px;
+    margin-bottom:0px;
+}
+.cat1{
+    width:200px;
+    height:200px;
+    object-fit:cover;
+    margin-bottom: 12px;
+}
+
+.author{
+    
+    font-size:18px;
+    font-weight:bold;
+    margin-bottom:2px;
+    padding-left:10px;
+    margin-bottom: 5px;
+}
+.dog2{
+    width:30px;
+    height:30px;
+    object-fit:cover;
+    border-radius:50%;
+    padding-left:10px;
+    vertical-align: middle;
+  
+}
+.frnds{
+    margin-top:5px;
+    text-align:middle;
+    color:gray;
+    margin-left: 5px;
+  margin-bottom: 10px;
+}
+.vert22h1,.vert22h2{
+    display:inline-block;
+    vertical-align:middle;
+}
+.add{
+    background-color:rgb(24, 119, 242);
+    color:white;
+    border:none;
+    padding-top:10px;
+    padding-bottom:10px ;
+    padding-left:15px ;
+    padding-right:20px ;
+    border-radius:4px;
+    cursor: pointer;
+    
+}
+
+.card{
+    display:inline-block;
+    margin-right:15px;
+   box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+   width:200px;
+   vertical-align:top;
+}
+.vert23{
+    padding-top:8px;
+    padding-left:10px;
+    padding-bottom:15px;;
+}
