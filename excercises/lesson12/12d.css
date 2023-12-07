@@ -1,0 +1,18 @@
+.cont{
+    
+    flex-direction:row;
+    justify-content:space-between;
+    align-items:center;
+    border-width:1px;
+    border-color:gray;
+    border-style:solid;
+    height:50px;
+    display:flex;
+
+}
+.item{
+    background-color:lightpink;
+}
+body{
+    margin:0;
+}

@@ -1,0 +1,11 @@
+.cont{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+}
+.item{
+    background-color:lightpink;
+}
+body{
+    margin:0;
+}
