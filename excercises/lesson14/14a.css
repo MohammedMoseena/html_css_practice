@@ -1,0 +1,11 @@
+.targeted{
+    background-color:black;
+    color:white;
+    position:fixed;
+    bottom:20px;
+    right:20px;
+
+}
+body{
+    height:5000px;
+}

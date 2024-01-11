@@ -1,0 +1,16 @@
+body{
+    height:3000px;
+}
+.Close_Button{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:white;
+    background-color:black;
+    width:30px;
+    height:30px;
+    border-radius:50%;
+    position:absolute;
+    top:10px;
+    right:10px;
+}
